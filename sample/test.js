@@ -31,15 +31,16 @@
 //     console.log("My name is Min.");
 // }
 
-let action = "eat" ;
-switch(action){
-    case 'draw':
-        console.log('draw');
-        break;
-    case 'eat' :
-        console.log('eat');
-        break;
-    default:
-        console.log('nothing');
-}
+// let action = "eat" ;
+// switch(action){
+//     case 'draw':
+//         console.log('draw');
+//         break;
+//     case 'eat' :
+//         console.log('eat');
+//         break;
+//     default:
+//         console.log('nothing');
+// }
+
 
