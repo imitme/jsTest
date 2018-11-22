@@ -15,3 +15,6 @@ fs.writeFile('./output.txt', 'Hello world',
         console.log("쓰기완료");
     }
 );
+
+
+
