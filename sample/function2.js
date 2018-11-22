@@ -43,9 +43,7 @@
 
 
 function makeAdder(a){
-    return function(b){
-        return a+b;
-    }
+    return function(b){  return a+b;  };
 }
 x= makeAdder(3);
 console.log(x); //함수를 리턴한다!
